@@ -1,0 +1,26 @@
+{
+  "Op1": {
+    "key": 4148,
+    "operation": "insert"
+  },
+  "Op2": {
+    "key": 2713,
+    "operation": "insert"
+  },
+  "Op3": {
+    "key": 2161,
+    "operation": "insert"
+  },
+  "Op4": {
+    "key": 4602,
+    "operation": "insert"
+  },
+  "Op5": {
+    "key": 186,
+    "operation": "insert"
+  },
+  "metadata": {
+    "maxHeapSize": 10,
+    "numOperations": 5
+  }
+}

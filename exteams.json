@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "numPlayers": 6
+  },
+  "teamStats": [
+    {
+      "playerOne": 0,
+      "playerTwo": 1,
+      "winPercentage": 16.641
+    },
+    {
+      "playerOne": 0,
+      "playerTwo": 2,
+      "winPercentage": 77.331
+    },
+    {
+      "playerOne": 0,
+      "playerTwo": 3,
+      "winPercentage": 68.646
+    },
+    {
+      "playerOne": 0,
+      "playerTwo": 4,
+      "winPercentage": 13.817
+    },
+    {
+      "playerOne": 0,
+      "playerTwo": 5,
+      "winPercentage": 28.251
+    },
+    {
+      "playerOne": 1,
+      "playerTwo": 2,
+      "winPercentage": 27.491
+    },
+    {
+      "playerOne": 1,
+      "playerTwo": 3,
+      "winPercentage": 41.981
+    },
+    {
+      "playerOne": 1,
+      "playerTwo": 4,
+      "winPercentage": 2.257
+    },
+    {
+      "playerOne": 1,
+      "playerTwo": 5,
+      "winPercentage": 83.844
+    },
+    {
+      "playerOne": 2,
+      "playerTwo": 3,
+      "winPercentage": 71.1
+    },
+    {
+      "playerOne": 2,
+      "playerTwo": 4,
+      "winPercentage": 51.168
+    },
+    {
+      "playerOne": 2,
+      "playerTwo": 5,
+      "winPercentage": 91.809
+    },
+    {
+      "playerOne": 3,
+      "playerTwo": 4,
+      "winPercentage": 17.066
+    },
+    {
+      "playerOne": 3,
+      "playerTwo": 5,
+      "winPercentage": 77.047
+    },
+    {
+      "playerOne": 4,
+      "playerTwo": 5,
+      "winPercentage": 41.07
+    }
+  ]
+}
